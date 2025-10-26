@@ -29,7 +29,7 @@ Essential mods to keep your experience smooth and your focus on the game.
 
 ## Installation
 Requirements: <br>
-Minecraft Version: 1.20.1 <br>
+Minecraft Version: **Java** 1.20.1 <br>
 Mod Loader: Forge <br>
 
 Tutorial: <br>
@@ -39,3 +39,4 @@ Tutorial: <br>
 4. Copy and Paste the mods, shaders into the mods and shaders folders
 5. Launch the game
 6. Enjoy
+
