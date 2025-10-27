@@ -40,3 +40,7 @@ Tutorial: <br>
 5. Launch the game
 6. Enjoy
 
+## Disclaimer
+The mods and shaders are not mine and not my creation. They belong to the creator. This modpack only shares the mods and does not profit from any source.
+ 
+
